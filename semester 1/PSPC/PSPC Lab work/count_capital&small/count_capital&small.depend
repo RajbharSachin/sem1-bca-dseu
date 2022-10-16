@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647491043 source:c:\users\vinesh basnate\onedrive\practical and supporting document\pspc\pspc lab work\count_capital&small\main.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+

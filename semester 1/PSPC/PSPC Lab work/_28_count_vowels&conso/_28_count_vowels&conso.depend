@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647534851 source:c:\users\vinesh basnate\onedrive\practical and supporting document\pspc\pspc lab work\_28_count_vowels&conso\main.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+
